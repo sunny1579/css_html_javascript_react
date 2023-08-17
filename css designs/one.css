@@ -1,0 +1,14 @@
+img{
+    border:10px solid rgba(222, 137, 33, 0.288) ;
+    height:200px ;
+    width: 300px;
+    padding: 5px;
+    margin: 30px;
+}
+p{
+    border:8px solid rgba(88, 58, 207, 0.288) ;
+    height:200px ;
+    width: 300px;
+    padding: 5px;
+    margin: 30px;
+}
